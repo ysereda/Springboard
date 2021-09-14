@@ -149,7 +149,7 @@ for the following questions.
 
 /*QUESTIONS:
 
-/* ATTENTION: Below, SQL queries are shown; Python code is here: XXX */
+/* ATTENTION: Below, SQL queries are shown; Python code is here: https://github.com/ysereda/Springboard/blob/main/8.3.3_SQLTasks_Tier2.ipynb */
 
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
