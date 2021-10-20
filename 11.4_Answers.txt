@@ -1,0 +1,20 @@
+Q1) What can you infer about the nature of these variables, as output by the info() method?
+Which variables might be suitable for regression analysis, and why? For those variables that aren't suitable for regression analysis, is there another type of statistical modeling for which they are suitable?
+A1) Variables "Unnamed: 0" and "quality" are integers, all other variables are continuous real values.
+Continuous variables are suitable for regression analysis, while discrete (integer and categorical) are not. Discrete variables are suitable for classification and logistic regression.
+
+Q2) What do you notice from this summary?
+A2) Minimum 'quality' value is 3, maximum is 8, median is 6, first quartile is 5, and 3rd quartile is 6.
+
+Q3) If you've never executed your own Seaborn pairplot before, just take a moment to look at the output. They certainly output a lot of information at once. What can you infer from it? What can you not justifiably infer from it?
+A3) We cannot infer cause-effect relationship, i.e. cannot tell if change in an explanatory variable causes the change in the dependent variable.
+
+Q4) How does color relate to extent of correlation?
+How might we use the plot to show us interesting relationships worth investigating?
+More precisely, what does the heatmap show us about the fixed acidity variable's relationship to the density variable?
+A4) Dark red corresponds to anticorrelation (R=-1) and white corresponds to perfect correlation (R=1).
+We can use `sns.pairplot` function with arguments x_vars and y_vars to show the plots where R is close to -1 or 1.
+Fixed acidity best correlates with the density.
+
+Q5) Take a moment to reflect on which model was the best, before reading on.
+A5) The best model was last one, without highly inter-correlated independent variables.
