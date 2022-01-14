@@ -1,0 +1,43 @@
+1-2 paragraphs about your experience at a meetup or event.
+###
+Attended informational interview
+
+1) Megadalton Solutions
+Thursday, January 13·1:00 – 1:30pm
+This startup company has shared information on their data visualization needs.
+
+###
+Attended meetup events
+
+1) Indianapolis Blockchain Developers Monthly Meeting
+Thursday, January 13·6:30 – 8:30pm
+https://www.google.com/url?q=https://www.meetup.com/Indianapolis-Blockchain-Developers/events/282138496&sa=D&source=calendar&usd=2&usg=AOvVaw2nDsXgF3Wh0JOaOWxGkPUA
+This was a first trial of how meetup works. I asked a question in the chat about data science related issues that blockchain developers come across in the chat, and awaiting response.
+
+###
+List of meetup events for which I signed up
+
+ML System Design for Continuous Experimentation
+Tuesday, January 18·1:00 – 2:00pm
+https://www.meetup.com/D-C-Data-Science-ODSC/events/283184456
+
+Virtual Panel: Improve Business Processes with AI Automated Workflows
+Wednesday, January 19·11:00am – 12:00pm
+https://www.meetup.com/Washington-D-C-Artificial-Intelligence-Deep-Learning/events/283224856
+
+AWS Certified Machine Learning Specialty - Preparation Strategy
+Wednesday, January 26, 2022
+https://www.meetup.com/Deep-Learning-Adventures/events/283106094/
+https://us02web.zoom.us/j/84402592502?pwd=d1lVSkxQZE1sSGljR3dXaEZwYmNEdz09
+
+Serious Data Science
+Tuesday, February 8·6:30 – 9:00pm
+https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/events/273869436
+
+Indianapolis Blockchain Developers Monthly Meeting
+Thursday, February 10·6:30 – 8:30pm
+For full details, including the address, and to RSVP see: https://www.meetup.com/Indianapolis-Blockchain-Developers/events/pjmhwrydcdbnb
+
+###
+Groups
+https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/
