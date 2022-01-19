@@ -14,16 +14,17 @@ Thursday, January 13·6:30 – 8:30pm
 https://www.google.com/url?q=https://www.meetup.com/Indianapolis-Blockchain-Developers/events/282138496&sa=D&source=calendar&usd=2&usg=AOvVaw2nDsXgF3Wh0JOaOWxGkPUA
 This was a first trial of how meetup works. I asked a question in the chat about data science related issues that blockchain developers come across in the chat, and awaiting response.
 
+2) Virtual Panel: Improve Business Processes with AI Automated Workflows
+Wednesday, January 19·11:00am – 12:00pm
+https://www.meetup.com/Washington-D-C-Artificial-Intelligence-Deep-Learning/events/283224856
+About current and future work in document AI: patient record classification and referral to the right specialist for accelerated handling of urgent UCSF cancer medical cases.
+
 ###
 List of meetup events for which I signed up
 
 ML System Design for Continuous Experimentation
 Tuesday, January 18·1:00 – 2:00pm
 https://www.meetup.com/D-C-Data-Science-ODSC/events/283184456
-
-Virtual Panel: Improve Business Processes with AI Automated Workflows
-Wednesday, January 19·11:00am – 12:00pm
-https://www.meetup.com/Washington-D-C-Artificial-Intelligence-Deep-Learning/events/283224856
 
 AWS Certified Machine Learning Specialty - Preparation Strategy
 Wednesday, January 26, 2022
