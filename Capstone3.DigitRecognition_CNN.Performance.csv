@@ -1,0 +1,16 @@
+model,nl1,dropout1,nl2,dropout2,manual_labels,loss,optimizer,epochs,test_loss,test_accuracy,trials,accuracy
+NN,50,0,50,0,0,categorical_crossentropy,adam,200,0.272163,0.975200,500,0.694
+NN,50,0,25,0,0,categorical_crossentropy,adam,200,0.278739,0.973300,150,0.573333
+NN,50,0,75,0,0,categorical_crossentropy,adam,200,0.248749,0.977100,150,0.566667
+NN,50,0.2,50,0,0,categorical_crossentropy,adam,200,0.154201,0.974000,200,0.625
+NN,50,0.5,50,0,0,categorical_crossentropy,adam,200,0.113652,0.968400,200,0.635
+NN,50,0.8,50,0,0,categorical_crossentropy,adam,200,2.466910,0.303700,200,0.580
+NN,50,0,50,0,200,categorical_crossentropy,adam,200,0.260561,0.974100,500,0.851304
+NN,50,0,50,0,400,categorical_crossentropy,adam,200,0.242828,0.978000,500,0.924
+NN,50,0,50,0,600,categorical_crossentropy,adam,200,0.268606,0.973200,500,0.924
+NN,50,0,50,0,800,categorical_crossentropy,adam,200,0.241012,0.976800,500,0.966
+NN,50,0,50,0,0,categorical_crossentropy,adam,400,0.380669,0.972900,150,0.593333
+CNN,32,0.25,64,0,0,categorical_crossentropy,Adadelta,200,0.122603,0.963100,200,0.55
+CNN,32,0.25,64,0,0,mean_squared_error,Adadelta,200,0.017082,0.891600,200,0.62
+CNN,32,0.25,64,0,0,mean_absolute_error,Adadelta,200,0.022845,0.901100,200,0.585
+CNN,32,0.25,64,0,0,categorical_crossentropy,Adadelta,400,0.011047,0.928500,200,0.55
