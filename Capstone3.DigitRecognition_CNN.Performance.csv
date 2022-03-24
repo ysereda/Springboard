@@ -14,3 +14,4 @@ CNN,32,0.25,64,0.5,0,categorical_crossentropy,Adadelta,200,0.122603,0.9631,200,0
 CNN,32,0.25,64,0.5,0,mean_squared_error,Adadelta,200,0.017082,0.8916,200,0.62
 CNN,32,0.25,64,0.5,0,mean_absolute_error,Adadelta,200,0.022845,0.9011,200,0.585
 CNN,32,0.25,64,0.5,0,categorical_crossentropy,Adadelta,400,0.011047,0.9285,200,0.55
+CNN,32,0.25,64,0.5,0,categorical_crossentropy,Adam,200,0.068824,0.992700,200,0.83
